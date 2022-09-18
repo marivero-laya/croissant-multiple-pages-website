@@ -1,0 +1,35 @@
+body {
+  background-color: #f9e7a7;
+}
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+  margin: 20px;
+  margin-bottom: 50px;
+}
+
+.links {
+  text-align: center;
+  margin: 20px;
+}
+.primary-link {
+  color: green;
+}
+.contact {
+  text-align: center;
+  margin: 50px;
+}
+
+.croissant-image {
+  text-align: center;
+  margin: 50px;
+}
